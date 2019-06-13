@@ -1,0 +1,7 @@
+hmmlearn
+pandas
+numpy
+keras
+tensorflow
+tqdm
+jupyter
